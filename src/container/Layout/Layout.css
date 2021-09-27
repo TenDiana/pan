@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+}
+.main{
+    padding-left: 300px;
+    text-align: center;
+}
+.main.act{
+    padding-left: 100px;
+}
